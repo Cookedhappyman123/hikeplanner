@@ -1,0 +1,21 @@
+{
+  "name": "hikeplanner",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Hiking trip planner phase 2: real source files ported from the phase 1 mock-data prototype screens.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "vite": "^5.4.9"
+  }
+}
